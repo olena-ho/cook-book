@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CookBook.Api/CookBook.Api.csproj" />
+    <Project Path="src/CookBook.Application/CookBook.Application.csproj" />
+    <Project Path="src/CookBook.Domain/CookBook.Domain.csproj" />
+    <Project Path="src/CookBook.Infrastructure/CookBook.Infrastructure.csproj" />
+  </Folder>
+</Solution>
