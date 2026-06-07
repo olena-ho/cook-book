@@ -427,3 +427,26 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# --------------------
+# Frontend / Node / React / Vite
+# --------------------
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.vite/
+
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# --------------------
+# Docker / local data
+# --------------------
+docker-data/
+*.log
